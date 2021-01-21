@@ -120,4 +120,4 @@ var displayWarning = function(repo) {
 
 
 
-getRepoName();
+getRepoIssues("moment/moment");
